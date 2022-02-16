@@ -1,5 +1,5 @@
 {
-  "name": "@actionsflow/trigger-rsshub",
+  "name": "@actionsflow/trigger-rsshub_mini_dev",
   "version": "1.0.3",
   "description": "Actionsflow trigger for rsshub",
   "keywords": [
@@ -18,13 +18,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theowenyoung/actionsflow-trigger-rsshub.git"
+    "url": "git+https://github.com/JomeiLiu/actionsflow-trigger-rsshub.git"
   },
   "publishConfig": {
     "access": "public"
   },
   "bugs": {
-    "url": "https://github.com/theowenyoung/actionsflow-trigger-rsshub/issues"
+    "url": "https://github.com/JomeiLiu/actionsflow-trigger-rsshub/issues"
   },
   "devDependencies": {
     "actionsflow-core": "^0.1.24",
